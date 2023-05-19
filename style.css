@@ -2,6 +2,10 @@
     color:black;
 }
 p{
-    background-color: rgb(76, 44, 128);
+    background-color: rgb(160, 199, 18);
+    text-align: center;
+}
+a{
+    background-color: rgb(61, 26, 85);
     text-align: center;
 }
